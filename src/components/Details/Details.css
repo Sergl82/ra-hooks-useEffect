@@ -1,0 +1,30 @@
+.Details {
+   margin-left: 20px;
+}
+
+.Details__avatar {
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+}
+
+.details-text {
+   border: 1px solid rgb(190, 190, 190);
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-top: 0;
+}
+
+.details-text-item {
+   padding: 4px 16px;
+   border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.details-text-item:last-child {
+   border-bottom: 0;
+}
+
+.details-text-title {
+   font-weight: bold;
+   font-size: 16px;
+   padding: 8px 16px;
+}
